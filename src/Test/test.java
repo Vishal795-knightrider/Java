@@ -25,7 +25,5 @@ abstract class VehicleBooking implements Booking{
 public class test {
     public static void main(String[] args) {
 //        VehicleBooking cab=new VehicleBooking();
-        System.out.println("Booked amount 500 at 10 AM");
-        System.out.println("Cancel you will get a refund of 300");
     }
 }
