@@ -1,7 +1,8 @@
 package Oops.polymorphism;
 
-
+//static or early Binding
 //1 hi kaam ko bahut tarike
+
 public class Cpoly1     {
     public static void main(String[] args) {
         System.out.println("A");
